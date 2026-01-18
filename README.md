@@ -24,3 +24,5 @@
 | Array&Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) |  Easy | Hash Table | [Folder](./Array&Hashing/Two%20Sum) | Dùng Unordered Map |
 | Array&Hashing | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  Medium | Hash Table | [Folder](./Array&Hashing/Group%20Anagram) | Dùng Unordered Map |
 | Array&Hashing | [Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-elements/) |  Medium | Hash Table | [Folder](./Array&Hashing/Group%20Anagram) | Dùng Unordered Map + Priority Queue |
+| Array&Hashing | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  Medium | Hash Table | [Folder](./Array&Hashing/Valid%20Sudoku/) | 3 mảng + Công thức tính vị trí trong subBox |
+| Array&Hashing | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |  Medium | Hash Table | [Folder](./Array&Hashing/Longest%20Consecutive%20Sequence/) | Tìm phần tử bé nhất, sau đó cộng dần lên  |
