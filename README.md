@@ -26,3 +26,5 @@
 | Array&Hashing | [Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-elements/) |  Medium | Hash Table | [Folder](./Array&Hashing/Group%20Anagram) | Dùng Unordered Map + Priority Queue |
 | Array&Hashing | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  Medium | Hash Table | [Folder](./Array&Hashing/Valid%20Sudoku/) | 3 mảng + Công thức tính vị trí trong subBox |
 | Array&Hashing | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |  Medium | Hash Table | [Folder](./Array&Hashing/Longest%20Consecutive%20Sequence/) | Tìm phần tử bé nhất, sau đó cộng dần lên  |
+| Two pointer | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  Easy | Two Pointer | [Folder](./Two%20Pointer/Valid%20Palindrome/) | Dùng 2 con trỏ để kiểm tra, nếu khác nhau thì là False  |
+| Two pointer | [Two Sum II Input Array is Sorted]() |  Medium | Two Pointer | [Folder](./Two%20Pointer/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Vì mảng đã sắp xếp nên dùng tổng 2 con trỏ để tìm  |
