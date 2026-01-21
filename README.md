@@ -30,3 +30,4 @@
 | Two pointer | [Two Sum II Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |  Medium | Two Pointer | [Folder](./Two%20Pointer/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Vì mảng đã sắp xếp nên dùng tổng 2 con trỏ để tìm  |
 | Two pointer | [3Sum](https://leetcode.com/problems/3sum/) |  Medium | Two Pointer | [Folder](./Two%20Pointer/3Sum/) | Ý tưởng giải tương tự 2Sum nhưng phải lưu ý phần tử trùng lặp  |
 | Two pointer | [Container With Most Water]() |  Medium | Two Pointer | [Folder](./Two%20Pointer/Container%20With%20Most%20Water/) | Dùng 2 con trỏ, giá trị nhỏ hơn trong 2 con trỏ được sử dụng để tính toán  |
+| Two pointer | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |  Hard | Two Pointer | [Folder](./Two%20Pointer/Trapping%20Rain%20Water/) | 2 Con trỏ và 2 biến để tính giá trị cột lớn nhất 2 phía  |
